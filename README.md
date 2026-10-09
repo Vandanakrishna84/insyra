@@ -1,4 +1,6 @@
 # Insyra — Web Search Intelligence
+**Live Demo:**
+https://insyra-txyav7gqwfazsypmepyn9i.streamlit.app/
 
 ## Overview
 
